@@ -2,7 +2,7 @@
 let accessToken;
 
 const clientId = '99f3a058f96244849c9e121132198436'
-const redirectUri = 'https://626c0e3c1492ac3358cfeaf5--heartfelt-kashata-b2d0b6.netlify.app/'
+const redirectUri = 'https://heartfelt-kashata-b2d0b6.netlify.app'
 
 const clientSecret = 'dc4b1a78a3c34b10a7cb85cc3ab6cc67'
 
